@@ -8,8 +8,8 @@ const Navbar = () => {
  
  <Link className="navbar__link relative"  href="#">HOME</Link>
  <Link className="navbar__link relative"  href="#">CATAGORIES</Link>
- <Link className="navbar__link relative"  href="#">MEN'S</Link>
- <Link className="navbar__link relative"  href="#">WOMEN'S</Link>
+ <Link className="navbar__link relative"  href="#">MEN&apos;S</Link>
+ <Link className="navbar__link relative"  href="#">WOMEN&apos;S</Link>
  <Link className="navbar__link relative"  href="#">JEWELERY</Link>
  <Link className="navbar__link relative"  href="#">PERFUME</Link>
  <Link className="navbar__link relative"  href="#">BLOG</Link>
